@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Faboohh
-- 👀 I’m interested to html,css and js
+- 👀 I’m interested in html,css and js
 - 🌱 I’m currently learning Front-end development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
